@@ -5,6 +5,7 @@
 - 📫 How to reach me dariosalvucci@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Did you know? Exploring the genetics of soybean varieties opened my eyes to how diverse traits can improve crop yield and environmental sustainability—proving that data can make a greener impact!"
+  <img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png;background-color: transparent;">
 <!---
 DSalvucciData/DSalvucciData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
