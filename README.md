@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSalvucciData
 - 👀 I’m interested in data analysis, data science, and leveraging data to drive business insights.
-- 🌱 I recently completed the Google Data Analytics Professional Certificate and I'm currently deepening my skills in SQL and R, exploring advanced visualization techniques, and starting to learn Python.
+- 🌱 Completed the Google Data Analytics Professional Certificate and I'm currently deepening my skills in advanced SQL and R, exploring advanced visualization techniques, and learning Python.
 - 💞️ I’m looking to collaborate on data-driven projects, especially in the fields of biology or healthcare analytics.
 - 📫 How to reach me dariosalvucci@gmail.com
 - 😄 Pronouns: He/Him
@@ -14,3 +14,27 @@
 DSalvucciData/DSalvucciData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+📊 Skills & Tools
+- **Languages**: SQL (intermediate/advanced), R, Python (learning)
+- **Tools**: Tableau, Power Bi, BigQuery, Git, GitHub
+- **Core skills**: Data wrangling, EDA, visualization, dashboarding, statistical analysis
+- **Domain knowledge**: Biology, healthcare, environmental science
+
+  
+💼 Projects
+- 🔍 [Cyclistic Bike Share Analysis (R, Tableau)](https://github.com/DSalvucciData/Cyclistic_Bike_Share_Data_Analysis)  
+  *Cleaned, analyzed, and visualized real-world data to find usage trends and business recommendations.*
+
+- 🏦 [E-commerce Credit Risk (SQL)](https://github.com/DSalvucciData/analisis_sql_riesgo_crediticio_ecommerce)  
+  *Advanced SQL queries to analyze patterns of non-payment and customer segmentation.*
+
+- 📚 [8 Week SQL Challenge](https://github.com/DSalvucciData/8_Week_SQL_Challenge)  
+  *Completed multiple business case studies using advanced SQL logic and CTEs.*
+  
+
+
+## 📬 Get in Touch
+- 📧 Email: dariosalvucci@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/diegosalvucci/)  
+- 📄 CV available upon request – feel free to reach out via email or LinkedIn.
