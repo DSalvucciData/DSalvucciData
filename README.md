@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DSalvucciData
+# 👋 Hi, I’m Dario
+
 - 👀 I’m interested in data analysis, data science, and leveraging data to drive business insights.
-- 🌱 Completed the Google Data Analytics Professional Certificate and I'm currently deepening my skills in advanced SQL and R, exploring advanced visualization techniques, and learning Python.
+- 🌱 Completed the Google Data Analytics Professional Certificate and I'm currently sharpening my skills in advanced SQL and R, exploring data visualization techniques, and learning Python.
 - 💞️ I’m looking to collaborate on data-driven projects, especially in the fields of biology or healthcare analytics.
 - 📫 How to reach me dariosalvucci@gmail.com
 - 😄 Pronouns: He/Him
@@ -15,14 +16,14 @@ DSalvucciData/DSalvucciData is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-📊 Skills & Tools
+## 📊 Skills & Tools
 - **Languages**: SQL (intermediate/advanced), R, Python (learning)
 - **Tools**: Tableau, Power Bi, BigQuery, Git, GitHub
 - **Core skills**: Data wrangling, EDA, visualization, dashboarding, statistical analysis
 - **Domain knowledge**: Biology, healthcare, environmental science
 
   
-💼 Projects
+## 💼 Projects
 - 🔍 [Cyclistic Bike Share Analysis (R, Tableau)](https://github.com/DSalvucciData/Cyclistic_Bike_Share_Data_Analysis)  
   *Cleaned, analyzed, and visualized real-world data to find usage trends and business recommendations.*
 
@@ -37,4 +38,4 @@ You can click the Preview link to take a look at your changes.
 ## 📬 Get in Touch
 - 📧 Email: dariosalvucci@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/diegosalvucci/)  
-- 📄 CV available upon request – feel free to reach out via email or LinkedIn.
+- 📄 Resume available upon request
