@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 📊 Skills & Tools
-- **Languages**: SQL (intermediate/advanced), R, Python (learning)
+- **Languages**: SQL, R, Python (learning)
 - **Tools**: Tableau, Power Bi, BigQuery, Git, GitHub
 - **Core skills**: Data wrangling, EDA, visualization, dashboarding, statistical analysis
 - **Domain knowledge**: Biology, healthcare, environmental science
