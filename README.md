@@ -25,7 +25,7 @@ Tras años en la investigación académica, me reconvertí al análisis de datos
 **[Google Data Analytics Professional Certificate](https://www.credly.com/badges/7c1315ba-3747-4195-a38a-6951966614d3/public_url)**  
 *Coursera, 2024*  
 
-[![Google Data Analytics Badge](https://images.credly.com/size/110x110/images/0c7953e9-440c-4a42-9a22-89e79f4a6cc3/image.png)](https://www.credly.com/badges/7c1315ba-3747-4195-a38a-6951966614d3/public_url)
+[![Google Data Analytics Badge](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/7c1315ba-3747-4195-a38a-6951966614d3/public_url)
 
 
 ---
