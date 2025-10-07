@@ -73,7 +73,7 @@ Completed business case studies using **advanced SQL**, **CTEs**, and **window f
 
 ---
 
-⚡ *Fun fact:* Exploring soybean genetics taught me how data can drive sustainability — and that insight can grow anywhere, even from a seed 🌱  
-✨ *Dato curioso:* Analizar la genética de la soja me enseñó que los datos pueden impulsar la sostenibilidad… ¡y que las mejores ideas pueden crecer desde una semilla! 🌿
-
+⚡ **Fun fact / Dato curioso:**  
+Analyzing data taught me how numbers reveal patterns that improve outcomes — proving that data can truly make an impact.  
+Analizar datos me enseñó cómo los datos revelan patrones que mejoran resultados — demostrando que los datos pueden tener un impacto real.
 
