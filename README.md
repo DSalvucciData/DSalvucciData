@@ -1,41 +1,80 @@
-# 👋 Hi, I’m Dario
+# 👋 Hi, I'm Dario Salvucci | ¡Hola! Soy Dario Salvucci  
 
-- 👀 I’m interested in data analysis, data science, and leveraging data to drive business insights.
-- 🌱 Completed the Google Data Analytics Professional Certificate and I'm currently sharpening my skills in advanced SQL and R, exploring data visualization techniques, and learning Python.
-- 💞️ I’m looking to collaborate on data-driven projects, especially in the fields of biology or healthcare analytics.
-- 📫 How to reach me dariosalvucci@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: "Did you know? Exploring the genetics of soybean varieties opened my eyes to how diverse traits can improve crop yield and environmental sustainability—proving that data can make a greener impact!"
-  ### 📜 Badges
-<a href="https://www.credly.com/badges/7c1315ba-3747-4195-a38a-6951966614d3/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Ver en Credly" width="150">
+🎯 **Data Analyst | SQL & Power BI Enthusiast | Researcher turned Data Explorer**  
+💡 **Analista de Datos | Especialista en SQL y Power BI | Investigador orientado a la analítica**
+
+---
+
+### 👀 About Me / Sobre mí  
+
+I’m passionate about discovering insights through data and transforming information into actionable strategies.  
+After years in academic research, I transitioned into data analytics — applying my analytical mindset to business challenges.  
+
+Me apasiona descubrir conocimientos a través de los datos y transformar la información en estrategias accionables.  
+Tras años en la investigación académica, me reconvertí al análisis de datos, aplicando mi pensamiento crítico al ámbito empresarial.  
+
+- 💻 Strongest in **SQL** and **Power BI** (star schema modeling, dashboards, KPIs)  
+- 📊 Skilled in **data visualization**, **statistical analysis**, and **data storytelling**  
+- 🌱 Learning **DAX**, **Python**, and **machine learning fundamentals**  
+- 🤝 Open to collaborating on **data-driven projects** in business, biotech, or sustainability  
+
+---
+
+### 🏅 Certifications / Certificaciones  
+
+**[Google Data Analytics Professional Certificate](https://www.credly.com/badges/7c1315ba-3747-4195-a38a-6951966614d3/public_url)**  
+*Coursera, 2024*  
+
+<a href="https://www.credly.com/badges/7c1315ba-3747-4195-a38a-6951966614d3/public_url">
+  <img src="https://images.credly.com/size/110x110/images/0c7953e9-440c-4a42-9a22-89e79f4a6cc3/image.png" alt="Google Data Analytics Badge" width="100"/>
 </a>
 
-<!---
-DSalvucciData/DSalvucciData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-## 📊 Skills & Tools
-- **Languages**: SQL, R, Python (learning)
-- **Tools**: Tableau, Power Bi, BigQuery, Git, GitHub
-- **Core skills**: Data wrangling, EDA, visualization, dashboarding, statistical analysis
-- **Domain knowledge**: Biology, healthcare, environmental science
+### 💼 Featured Projects / Proyectos Destacados  
 
-  
-## 💼 Projects
-- 🔍 [Cyclistic Bike Share Analysis (R, Tableau)](https://github.com/DSalvucciData/Cyclistic_Bike_Share_Data_Analysis)  
-  *Cleaned, analyzed, and visualized real-world data to find usage trends and business recommendations.*
+📊 **[Xynzelia Power BI Dashboard](https://github.com/DSalvucciData/xynzelia-powerbi-dashboard)**  
+Interactive retail analytics dashboard built with Power BI and Python, using a **star schema** model and **executive KPIs**.  
+📈 Dashboard interactivo de ventas minoristas desarrollado con Power BI y Python, con modelado en estrella y KPIs ejecutivos.  
 
-- 🏦 [E-commerce Credit Risk (SQL)](https://github.com/DSalvucciData/analisis_sql_riesgo_crediticio_ecommerce)  
-  *Advanced SQL queries to analyze patterns of non-payment and customer segmentation.*
+🎬 **[Netflix 2005–2021 Power BI](https://github.com/DSalvucciData/Netflix-2005-2021-PowerBI)**  
+Exploratory analysis of Netflix content trends using Power BI — includes **data modeling** and **visual storytelling**.  
+🎞️ Análisis exploratorio de tendencias de contenido de Netflix en Power BI, con modelado de datos y storytelling visual.  
 
-- 📚 [8 Week SQL Challenge](https://github.com/DSalvucciData/8_Week_SQL_Challenge)  
-  *Completed multiple business case studies using advanced SQL logic and CTEs.*
-  
+🏦 **[E-commerce Credit Risk (SQL)](https://github.com/DSalvucciData/Analisis_SQL_Riesgo_Crediticio_Ecommerce)**  
+Advanced SQL analysis of customer **default risk and segmentation** in a simulated e-commerce dataset.  
+💳 Análisis avanzado en MySQL sobre riesgo crediticio y segmentación de clientes en una base de datos simulada.  
+
+🚴 **[Cyclistic Bike Share Analysis](https://github.com/DSalvucciData/Cyclistic-Bike-Share-Analysis)**  
+Capstone project for Google Data Analytics — full SQL & R workflow with Tableau visualization for business insights.  
+🚲 Proyecto final del certificado de Google: flujo completo de SQL y R con visualización en Tableau para insights empresariales.  
+
+🧩 **[8 Week SQL Challenge](https://github.com/DSalvucciData/8-Week-SQL-Challenge)**  
+Completed business case studies using **advanced SQL**, **CTEs**, and **window functions**.  
+🔍 Desafíos resueltos aplicando SQL avanzado, CTEs y funciones de ventana en contextos de negocio reales.  
+
+---
+
+### 🧠 Skills & Tools
+
+**Languages:** SQL (Advanced), R (Functional), Python (Learning)  
+**BI & Visualization:** Power BI, Tableau  
+**Databases:** MySQL, BigQuery  
+**Version Control:** Git, GitHub  
+**Core Skills:** Data wrangling, EDA, visualization, dashboarding, statistical analysis, storytelling with data  
+**Domain Knowledge:** Business Intelligence, Research Analytics, Statistical Analysis, Data-driven Decision Making
+
+---
+
+### 📫 Get in Touch / Contacto  
+
+📧 [dariosalvucci@gmail.com](mailto:dariosalvucci@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/dario-salvucci)  
+📄 Resume / CV available upon request  
+
+---
+
+⚡ *Fun fact:* Exploring soybean genetics taught me how data can drive sustainability — and that insight can grow anywhere, even from a seed 🌱  
+✨ *Dato curioso:* Analizar la genética de la soja me enseñó que los datos pueden impulsar la sostenibilidad… ¡y que las mejores ideas pueden crecer desde una semilla! 🌿
 
 
-## 📬 Get in Touch
-- 📧 Email: dariosalvucci@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/diegosalvucci/)  
-- 📄 Resume available upon request
